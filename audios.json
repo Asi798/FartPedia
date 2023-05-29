@@ -1,0 +1,21 @@
+[{
+    "codi": "Chest",
+    "titol": "Chest",
+    "arxiu": "ChestAudio.mp3"
+  },
+  {
+    "codi": "Door",
+    "titol": "Door",
+    "arxiu": "DoorAudio.mp3"
+  },
+  {
+    "codi": "Explosion",
+    "titol": "Explosion",
+    "arxiu": "ExplosionAudio.mp3"
+  },
+  {
+    "codi": "Missile",
+    "titol": "Missile",
+    "arxiu": "MissilesLaunchAudio.mp3"
+  }
+]
